@@ -21,6 +21,7 @@
         android:id="@+id/linearLayout"
         android:background="#FFD6D6">
         <EditText
+            android:id="@+id/txtAdd"
             android:layout_width="0dp"
             android:layout_weight="5"
             android:layout_height="wrap_content"
@@ -29,6 +30,7 @@
             android:layout_marginLeft="8dp"
             android:textStyle="bold|italic" />
         <Button
+            android:id="@+id/btnAdd"
             android:layout_width="0dp"
             android:layout_weight="0.7"
             android:layout_height="wrap_content"
